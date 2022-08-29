@@ -1,6 +1,8 @@
 Hello there. I completed my B.S. degree in Math+CS at RPI. I like pure math, algorithms, and problem solving in general.
 
-Currently, I am a contributor to [Submitty](https://github.com/Submitty/Submitty) and am interested in programming with grid logic puzzles.
+Currently, I am a graduate student at RPI studying for a M.S. degree in Applied Mathematics.
+
+Some of my programming interests are grid logic puzzles and fractals.
 
 <!--
 **tkoz0/tkoz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
